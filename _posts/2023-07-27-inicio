@@ -1,3 +1,10 @@
 ## Primeiro post do blog
 
 Testando em markdown
+
+
+ ```tsql
+ SELECT *
+ FROM sys.tables
+ WHERE [name] = 'SomeTable'
+ ```
